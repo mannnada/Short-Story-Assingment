@@ -138,13 +138,10 @@ Code size changes:
 ## Deliverables
 
 ### Slide Deck  
-https://github.com/chandini2595/RAG-Architectures-Enhancements-Robustness/blob/main/Beyond-Static-Context-The-2025-State-of-RAG.pptx
 
 ### YouTube Presentation  
-https://youtu.be/n60iU21QnSg
 
 ### Medium Article  
-http://medium.com/@chandinisaisri.uppuganti/retrieval-augmented-generation-rag-is-evolving-fast-heres-what-engineers-need-to-know-in-2025-708446fe555c?postPublishedType=initial
 
 ---
 
