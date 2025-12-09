@@ -137,7 +137,7 @@ Code size changes:
 
 ## Deliverables
 
-### Slide Deck  
+### Slide Deck https://github.com/mannnada/Short-Story-Assingment/blob/main/TZ-LLM-Protecting-On-Device-Large-Language-Models-with-Arm-TrustZone.pptx  
 
 ### YouTube Presentation  
 
