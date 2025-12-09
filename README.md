@@ -141,7 +141,7 @@ Code size changes:
 
 ### YouTube Presentation  
 
-### Medium Article  
+### Medium Article https://medium.com/@mannnada05/on-device-llms-are-finally-becoming-practical-heres-what-engineers-need-to-know-in-2025-7cc24d544e25
 
 ---
 
